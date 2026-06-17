@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignorar pastas de plataforma geradas/gerenciadas pelo Flutter
+android/
+ios/
+web/
+windows/
+linux/
+macos/
